@@ -2,7 +2,8 @@
 final-project-repositories-chenye0615 created by GitHub Classroom
 
 1.Story Pitch
-What impact does the climate crisis have on us?Each year, we witness examples that demonstrate the severity of the climate crisis, 
+
+What impact does the climate crisis have on us? Each year, we witness examples that demonstrate the severity of the climate crisis, 
 such as the 2022 California wildfires, the 2022 Pakistan floods that caused over 1,700 deaths, 
 alpine ski resorts that may have to close due to melting glaciers.
 However, these catastrophic events are not the only indicators of the seriousness of the climate crisis. 
@@ -14,10 +15,13 @@ This project is fascinating because it makes the issues of the climate crisis, w
 more vivid and realistic. 
 
 2.Finding Data
-  Worldwide Crop Production | Kaggle (21165 rows, 5 columns) 
-This dataset comes from Kaggle and it records crop yields of several types of crop and it spans decades.
-  Climate Change Data | Climate Change Indicators Dashboard (imf.org) (970 rows 53 columns) 
- This dataset is collected from international monetary fund and it records the frequency of climate-related disasters.
+https://www.kaggle.com/datasets/vagifa/worldwide-crop-production (21165 rows, 5 columns) 
+
+This dataset comes from Kaggle is created by Vagif Aliyev. The dataset records crop yields of several types of crops and it spans decades. 
+
+https://climatedata.imf.org/pages/climatechange-data (970 rows 53 columns) 
+
+This dataset is collected from The Emergency Events Database (EM-DAT) , Centre for Research on the Epidemiology of Disasters (CRED) / Université catholique de Louvain (UCLouvain), Brussels, Belgium – and it records the frequency of climate-related disasters. 
 
 3.Background Research/Inspiration
 Food is an essential resource for all living organisms. Humans cannot function long without the constant intake of nutrients into their body. 
