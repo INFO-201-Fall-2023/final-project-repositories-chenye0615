@@ -17,14 +17,13 @@ more vivid and realistic.
 
 2.Finding Data
 
-a.https://www.kaggle.com/datasets/vagifa/worldwide-crop-production (21165 rows, 5 columns) 
+a.https://www.macrotrends.net/countries/USA/united-states/carbon-co2-emissions(30 rows, 3 columns) 
 
-This dataset comes from Kaggle and it is created by Vagif Aliyev. The dataset records crop yields of several types of crops and it spans decades. 
+This dataset comes from MacroTrends and it is created by United States Environmental Protection Agency. The dataset records greenhouse gas emissions from 1990 to 2019. In other words, this dataset can provide a perspective of the trends of CO2 emissions.
 
-b.https://climatedata.imf.org/pages/climatechange-data (970 rows 53 columns) 
+b.https://www.indexmundi.com/agriculture/?country=us&commodity=wheat&graph=production (64 rows 4 columns) 
 
-This dataset is collected from The Emergency Events Database (EM-DAT) , Centre for Research on the Epidemiology of Disasters (CRED) / Université catholique de Louvain (UCLouvain), Brussels, Belgium – and it records the frequency of climate-related disasters. 
-
+This dataset is collected from IndexMundi and it's created by United States Department of Agriculture. The dataset collects the wheat production from 1960 to 2022.
 
 3.Background Research/Inspiration
 
