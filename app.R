@@ -1,3 +1,6 @@
+#To specify our work allocation: Chenye Wu did all the coding part and the web desgin. 
+#Varun Hariharan wrote the texts.
+#Eunseo Jeong didn't contribute anything.
 library(shiny)
 library(ggplot2)
 library(plotly)
