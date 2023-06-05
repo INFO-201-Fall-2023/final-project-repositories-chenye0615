@@ -1,4 +1,4 @@
-#To specify our work allocation: Chenye Wu did all the coding part and the web desgin. 
+#To specify our work allocation: Chenye Wu did all the coding part and the web design. 
 #Varun Hariharan wrote the texts.
 #Eunseo Jeong didn't contribute anything.
 library(shiny)
